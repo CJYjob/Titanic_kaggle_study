@@ -1,4 +1,5 @@
 # Titanic_kaggle_study
+# kaggle adress : https://www.kaggle.com/competitions/titanic/overview
 
 ## 2022.09.17 0회차
 

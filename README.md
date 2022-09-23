@@ -8,16 +8,16 @@ https://www.youtube.com/channel/UC--LgKcZVgffjsxudoXg5pQ
 ## Contents   
 ### 1. 데이터셋 확인   
 #### 1.1 Null data check   
-####1.2 Target label 확인   
-###2. Exploratory data analysis   
-####2.1 Pclass   
-####2.2 Sex   
-####2.3 Both Sex and Pclass   
-####2.4 Age   
-####2.5 Pclass, Sex, Age   
-####2.6 Embarked   
-####2.7 Family - SibSp(형제 자매) + Parch(부모, 자녀)   
-####2.8 Cabin
+#### 1.2 Target label 확인   
+### 2. Exploratory data analysis   
+#### 2.1 Pclass   
+#### 2.2 Sex   
+#### 2.3 Both Sex and Pclass   
+#### 2.4 Age   
+#### 2.5 Pclass, Sex, Age   
+#### 2.6 Embarked   
+#### 2.7 Family - SibSp(형제 자매) + Parch(부모, 자녀)   
+#### 2.8 Cabin
 
 만약 데이터 사이언스, 머신러닝 또는 캐글에서 어떤 것을 해야하는 지 잘 모르는 newbie 라면, 타이타닉을 하시는 게 가장 좋은 선택입니다.   
 타이타닉은 아시다시피, 사상 최대 해난사고로써, 1,500여명의 희생자가 생겼습니다.   
